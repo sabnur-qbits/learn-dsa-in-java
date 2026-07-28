@@ -1,1 +1,15 @@
-# learn-dsa-in-java
+# Learn DSA in Java ☕️
+
+A structured, day-by-day journey to mastering Data Structures and Algorithms (DSA) from scratch using Java.
+
+---
+
+## 🎯 Goal
+To build a strong foundation in Java programming and progress into advanced Data Structures and Algorithms through daily theory, practice, and problem-solving.
+
+## 📚 Curriculum / Daily Logs
+
+* [Day 01: Introduction & First Programs](week_01/Day_01_Intro_and_Setup/00_theory.md)
+
+---
+*Generated and maintained as part of a daily study routine.*
