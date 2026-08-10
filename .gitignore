@@ -1,2 +1,4 @@
 context.md
 copilot_rules.md
+*.class
+.vscode/
