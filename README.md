@@ -11,6 +11,7 @@ To build a strong foundation in Java programming and progress into advanced Data
 
 * [Day 01: Introduction & First Programs](week_01/Day_01_Intro_and_Setup/00_theory.md)
 * [Day 02: Variables, Data Types, Type Casting & Operators](week_01/Day_02_Variables_and_Operators/00_theory.md)
+* [Day 03: Control Flow (Conditionals)](week_01/Day_03_Conditionals/00_theory.md)
 
 ---
 *Generated and maintained as part of a daily study routine.*
