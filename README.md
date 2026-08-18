@@ -14,6 +14,7 @@ To build a strong foundation in Java programming and progress into advanced Data
 * [Day 03: Control Flow (Conditionals)](week_01/Day_03_Conditionals/00_theory.md)
 * [Day 04: Loops & Patterns](week_01/Day_04_Loops_and_Patterns/00_theory.md)
 * [Day 05: Arrays](week_01/Day_05_Arrays/00_theory.md)
+* [Day 06: Methods](week_01/Day_06_Methods/00_theory.md)
 
 ---
 *Generated and maintained as part of a daily study routine.*
