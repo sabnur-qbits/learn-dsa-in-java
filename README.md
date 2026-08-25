@@ -16,6 +16,7 @@ To build a strong foundation in Java programming and progress into advanced Data
 * [Day 05: Arrays](week_01/Day_05_Arrays/00_theory.md)
 * [Day 06: Methods](week_01/Day_06_Methods/00_theory.md)
 * [Day 07: Revision & Recursion](week_01/Day_07_Revision_and_Recursion/00_theory.md)
+* [Week 2 Day 01: Intermediate Array Mechanics](week_02/Day_01_Array_Mechanics/00_theory.md)
 
 ---
 *Generated and maintained as part of a daily study routine.*
